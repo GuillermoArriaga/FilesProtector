@@ -1,0 +1,14 @@
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\bin\Debug\FileProtector.exe.config
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\bin\Debug\FileProtector.exe
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\bin\Debug\FileProtector.pdb
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.csprojAssemblyReference.cache
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.frmMain.resources
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.Properties.Resources.resources
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.csproj.GenerateResource.cache
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.csproj.CoreCompileInputs.cache
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.csproj.CopyComplete
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.exe
+E:\Codigos\VisualStudio2017\FileProtector\FileProtector\obj\Debug\FileProtector.pdb
